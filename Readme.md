@@ -19,7 +19,7 @@ This is a **"Hello World"** project using **SOAP** in **ASP.NET Core**. The appl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Danyss09/SOAP-HelloWorld.git
+git clone https://github.com/Danyss09/soap-app.git
 cd soapholamundo
 ```
 
